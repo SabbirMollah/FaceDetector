@@ -1,0 +1,14 @@
+certifi==2020.11.8
+click==7.1.2
+Flask==1.1.2
+Flask-PyMongo==2.3.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe @ file:///D:/bld/markupsafe_1602267645260/work
+mongoengine @ file:///D:/bld/mongoengine_1602545837967/work
+numpy @ file:///D:/bld/numpy_1604946253620/work
+opencv-contrib-python==4.4.0.46
+pymongo @ file:///D:/bld/pymongo_1602534076498/work
+six @ file:///C:/ci/six_1605205404068/work
+Werkzeug==1.0.1
+wincertstore==0.2
